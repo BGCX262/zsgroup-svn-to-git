@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+	 <package name="json" extends="json-default">
+        <action name="extjs" class="ExtjsAction">
+            <result type="json"/>
+        </action>
+        <action name="extjsXml" class="ExtjsAction">
+            <result type="freemarker">
+	            <param name="location">template/gridXml.ftl</param>
+	            <param name="contentType">application/xml</param>
+            </result>
+        </action>
+    </package>
+</struts>

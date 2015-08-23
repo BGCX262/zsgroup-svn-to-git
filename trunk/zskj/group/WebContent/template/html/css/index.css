@@ -1,0 +1,235 @@
+.zjzs .list li,.com6 .com .go,.com6 .com div h3,.com6 .com .x1,.com6 .com .x2,h1 span,h1,.zjzs_warp .zjzs,.newcenter,.zjtit,.kuaixun li .Btn,.kuaixun li .search,.kuaixun .x1,.kuaixun .x2,.main2 div a.button,.main2 div,.wzjs .bottom,.menu2 li,.menu2 li.hover,.main0 .new,.lh_right .x1,.lh_right .x2,.main0 div li a,.main0 div.bottom,.menu0 li.hover,.menu0 li,.sub_company dl dd,.sub_company dl.wj dd,.sub_company dl,.more,.leftnew dl dd a,.leftnew .x3,.leftnew .x4,.rongyu li a,.rongyu,.myzs,.kefu,.shipin .x2,.shipin .x1,.header .logo{background:url(../images/index.jpg) no-repeat;}
+
+.zj_nav li,.zj_nav h2,.com6 .com div.a1,.com6 .com div.a2,.com6 .com div.a3{background:url(../images/zjzs.gif) no-repeat;}
+
+.warp{width:960px;padding:0 10px;background:url(../images/bg_all.gif) repeat-y;margin:0 auto;overflow:hidden;zoom:1;}
+.content{height:846px;margin:10px 5px 0 5px;overflow:hidden;}
+.sidebar_left{width:234px;overflow:hidden;float:left;display:inline;}
+.sidebar_center{width:416px;overflow:hidden;float:left;display:inline;}
+.sidebar_right{width:300px;overflow:hidden;float:right;display:inline;}
+.more{width:35px;height:5px;background-position:-924px -41px;display:block;float:right;}
+h1{background-position:-953px -244px;text-indent:18px;height:28px;line-height:25px;border-bottom:1px solid #ebebeb;color:#777675;font-size:14px;font-weight:bold;overflow:hidden;}
+h1 span{background-position:-887px -275px;padding:0 15px 0 0;}
+h2{color:#646464;font-weight:bold;}
+h2 a{color:#646464;font-weight:bold;text-decoration:none;}
+.h10{display:block;height:10px;}
+
+/**导航**/
+.header{width:815px;height:45px;padding:0 100px 0 45px;line-height:45px;margin:0 auto;background:url(../images/tf.jpg) repeat-x top left;overflow:hidden;}
+.header .logo{width:191px;height:45px;background-position:0 0;float:left;display:inline;}
+.header .logo a{display:block;width:191px;height:43px;}
+.header .logo a span{display:none;}
+
+.header .nav{float:right;display:inline;}
+.header .nav a{padding:0 25px;text-align:center;border-right:1px solid #fff;color:#fff;text-decoration:none;font-size:14px;}
+.header .nav a.none{border-right:none;}
+.header .nav a:hover{color:#ff6600;}
+
+
+/**广告**/
+.flash960{width:960px;height:299px;border-bottom:2px solid #000;overflow:hidden;}
+.flash960 img{display:block;}
+#YFocus{position:relative;z-index:4;width:960px;height:299px;overflow:hidden;}
+#YImage,#YPhotos{margin:0 auto;overflow:hidden;}
+#YImage{position:relative;z-index:5;}
+#YImage,#YPhotos img{width:960px;height:299px;}
+#YPhotos{position:absolute;top:0;left:0;z-index:6;overflow:hidden;}
+#YPhotos img{float:left;clear:both;}
+#YSamples{position:absolute;z-index:7;width:960px;height:60px;border-top:2px solid #fff;left:0px;bottom:0px;background-color:#000;opacity:.7;filter:alpha(opacity=70);}
+#YSamples li{width:300px;float:left;display:inline;}
+#YSamples li a{float:left;display:inline;}
+#YSamples li span{float:left;display:inline;width:170px;color:#fff;font-weight:bold;line-height:60px;font-size:14px;}
+#YSamples a:link,#YSamples a:visited,#YSamples a:hover{position:relative;z-index:8;float:left;margin:4px 15px 4px 10px;display:inline;width:100px;height:50px;text-decoration:none;}
+#YSamples a img{border:2px solid #FFF;width:100px;height:50px;opacity:.4;-moz-opacity:.4;filter:alpha(opacity=40);}
+#YSamples a:hover img,#YSamples img.current{opacity:1;-moz-opacity:1;filter:alpha(opacity=100);position:relative;top:-30px;z-index:99;}
+
+
+
+/**视频**/
+.shipin{width:234px;height:170px;overflow:hidden;}
+.shipin .x1{width:234px;height:4px;display:block;background-position:0 -45px;overflow:hidden;}
+.shipin .x2{width:234px;height:5px;display:block;background-position:0 -49px;overflow:hidden;}
+.shipin div{height:161px;padding:0 4px;border-left:1px solid #dde4dd;border-right:1px solid #dde4dd;}
+
+/**客服**/
+.kefu{width:234px;height:80px;margin-top:10px;background-position:-238px 0;display:block;}
+.kefu span{display:none;}
+
+/**my中石**/
+.myzs{width:234px;height:80px;margin-top:7px;background-position:-238px -80px;display:block;}
+.myzs span{display:none;}
+
+/**新闻中心**/
+.newcenter{width:234px;height:77px;background-position:-239px -484px;display:block;}
+.newcenter span{display:none;}
+
+/**中石集团荣誉**/
+.rongyu{width:186px;height:144px;padding:65px 15px 0 33px;background-position:-238px -160px;margin-top:7px;overflow:hidden;}
+.rongyu li{background:url(../images/dashed.jpg) repeat-x left bottom;overflow:hidden;line-height:30px;}
+.rongyu li a{color:#6a6a6a;background-position:-950px 3px;text-decoration:none;padding-left:18px;font-size:12px;}
+.rongyu li a:hover{color:#ff6600;}
+
+
+/**leftnew**/
+.leftnew{width:234px;height:250px;margin-top:7px;overflow:hidden;}
+.leftnew .x3{background-position:0 -56px;height:6px;display:block;overflow:hidden;}
+.leftnew .x4{background-position:0 -62px;height:7px;display:block;overflow:hidden;}
+.leftnew dl{height:227px;background:url(../images/234_1.jpg) repeat-y;padding:10px 20px 0 20px;}
+.leftnew dl a{color:#646464;font-size:12px;}
+.leftnew dl a:hover{color:#ff6600;}
+.leftnew dl dt{height:130px;background:url(../images/dashed.jpg) repeat-x left bottom;overflow:hidden;line-height:18px;margin-bottom:5px;text-align:justify;text-justify:inter-ideograph;}
+.leftnew dl dt.none{display:block;height:auto;background:none;padding:10px 0 0 0;margin-bottom:0px;}
+.leftnew dl dt img{display:block;padding:1px;border:1px solid #000;margin:0 auto;margin-bottom:3px;}
+.leftnew dl dd{background:url(../images/dashed.jpg) repeat-x left bottom;line-height:23px;}
+.leftnew dl dd a{background-position:-950px 3px;text-decoration:none;padding-left:15px;}
+
+
+/**分公司**/
+.sub_company{width:208px;height:272px;margin-bottom:10px;float:left;display:inline;overflow:hidden;}
+.sub_company h2{line-height:30px;margin:0 10px 0 15px;}
+.sub_company dl{height:250px;background-position:23px -245px;padding:0 10px 0 10px;overflow:hidden;}
+.sub_company dl a{color:#646464;text-decoration:none;line-height:21px;text-align:justify;text-justify:inter-ideograph;font-size:12px;}
+.sub_company dl dt{height:150px;}
+.sub_company dl dd{height:84px;color:#646464;line-height:21px;background-position:-490px -32px;overflow:hidden;clear:both;}
+.sub_company dl dd p{font-size:12px;}
+.sub_company dl.wj{background-position:24px -245px;padding:0 10px 0 10px;}
+.sub_company dl.wj dd{height:84px;background-position:-725px -35px;}
+
+/**公司动态 行业新闻**/
+.news{height:254px;width:300px;position:relative;overflow:hidden;}
+.news a{color:#686868;text-decoration:none;}
+.news a:hover{color:#ff6600;}
+.news .more{margin-right:15px;}
+
+/**中石事记 中石战略**/
+.shiji{height:254px;width:300px;position:relative;overflow:hidden;margin-top:18px;}
+.shiji a{color:#686868;text-decoration:none;}
+.shiji a:hover{color:#ff6600;}
+.shiji .more{margin-right:15px;}
+
+
+.menu0{width:300px;position:absolute;z-index:2;}
+.menu0 li{width:89px;height:28px;line-height:28px;background-position:-89px -70px;text-align: center;cursor:pointer;;display:block;float: left;}
+.menu0 li.hover{background-position:0 -70px;}
+.menu0 li.hover a{font-weight:bold;}
+
+.main0{width:300px;height:225px;clear:both;border-top:1px solid #e3e3e3;background:url(../images/300_1.jpg) repeat-y;position:absolute;z-index:1;top:27px}
+.main0 .new{width:23px;height:9px;margin-left:10px;background-position:-937px -121px;display:block;float:left;margin-top:5px;}
+.main0 div{display: none;height:219px;overflow:hidden;}
+.main0 div.block{display: block;}
+.main0 div.bottom{background-position:-480px -12px;height:6px;display:block;}
+.main0 div ul{height:200px;margin:8px 15px 0 15px;overflow:hidden;}
+.main0 div li{background:url(../images/dashed.jpg) repeat-x left bottom;height:24px;line-height:24px;overflow:hidden;float:left;display:block;width:100%;}
+.main0 div li a{height:23px;background-position:-947px 9px;padding-left:20px;float:left;display:inline;overflow:hidden;}
+
+/**右边轮换**/
+.lh_right{width:300px;height:181px;margin-top:18px;overflow:hidden;}
+.lh_right .x1{background-position:-480px 0;display:block;width:300px;height:6px;overflow:hidden;}
+.lh_right .x2{background-position:-480px -6px;display:block;width:300px;height:6px;overflow:hidden;}
+.lh_right div#MainPromotionBanner{width:293px;height:169px;padding-left:8px;background:url(../images/300_1.jpg) repeat-y;}
+.lh_right #MainPromotionBanner #SlidePlayer {position:relative;margin: 0 auto;}
+.lh_right #MainPromotionBanner .Slides{padding: 0;margin: 0;list-style: none;height:169px;overflow: hidden;}
+.lh_right #MainPromotionBanner .Slides li {float: left;width:285px;height:169px;}
+.lh_right #MainPromotionBanner .Slides img{border:0;display: block;width:285px;height:169px;}
+.lh_right #MainPromotionBanner .SlideTriggers{margin: 0;padding: 0;list-style: none; position: absolute; top:149px; right: 8px;z-index: 10;height: 25px;}
+.lh_right #MainPromotionBanner .SlideTriggers li{float: left;display: inline;text-align: center;width:25px;height:17px;line-height:17px;margin-top:3px;margin-left:-1px;background:#000;font-family:Arial;cursor: pointer;color:#FFf;border-left:1px solid #fff;border-right:1px solid #fff;}
+.lh_right #MainPromotionBanner .SlideTriggers li.Current{color:#fff;width:24px;height: 20px;line-height:23px;overflow:hidden;background:url(../images/icon.gif) no-repeat;margin-top:0;border-left:none;border-right:none;}
+
+
+/**网站建设**/
+.wzjs{width:300px;height:84px;margin-top:15px;clear:both;position:relative;overflow:hidden;}
+.wzjs a{color:#b4b4b4;font-weight:bold;text-decoration:none;}
+.wzjs a:hover{color:#ff6600;}
+.wzjs .bottom{width:112px;height:4px;background-position:0 -132px;display:block;clear:both;overflow:hidden;}
+.menu2{width:112px;padding-right:10px;}
+.menu2 li{height:27px;line-height:27px;background-position:0 -101px;text-align: center;cursor:pointer;display:block;padding-right:10px;}
+.menu2 li.hover{background-position:-112px -101px;}
+.menu2 li.hover a{color:#474747;}
+
+.main2{width:175px;height:84px;position:absolute;left:125px;top:0;}
+.main2 div{display: none;height:74px;padding-top:10px;overflow:hidden;background-position:-776px -145px;line-height:20px;}
+.main2 div.block{display: block;}
+.main2 div p{width:124px;}
+.main2 div p a{color:#999;font-weight:normal;}
+.main2 div a.button{background-position:0 -138px;width:76px;height:20px;display:block;margin-top:10px;}
+
+/**新闻快讯**/
+.kuaixun{height:29px;line-height:29px;padding:6px 15px 0 15px;background:#eee;clear:both;}
+.kuaixun li{float:left;display:inline;}
+.kuaixun .tit{font-weight:bold;text-decoration:none;color:#666;float:left;display:inline;}
+.kuaixun .x1{width:4px;height:23px;background-position:-118px -133px;display:block;overflow:hidden;float:left;display:inline;}
+.kuaixun .x2{width:4px;height:23px;background-position:-122px -133px;display:block;overflow:hidden;float:left;display:inline;}
+.kuaixun li div{width:315px;height:21px;line-height:21px;padding:0 10px;float:left;display:inline;background:url(../images/23_1.jpg) repeat-x;color:#666;}
+.kuaixun li div a{color:#666;text-decoration:none;font-size:12px;}
+.kuaixun li div a:hover{color:#ff6600;}
+.kuaixun li .search{width:98px;height:16px;padding:5px 0 0 5px;margin-left:8px;border:none;background-position:0 -163px;float:left;display:inline;color:#646464;}
+.kuaixun li .Btn{width:27px;height:21px;border:none;background-position:-103px -163px;float:left;display:inline;}
+
+
+/**底部**/
+.footer{height:25px;line-height:25px;color:#fff;text-align:center;overflow:hidden;background:url(../images/tf.jpg) repeat-x left bottom;}
+
+/**走进中石**/
+.zjcontent{overflow:hidden;}
+.zjcontent .leftInt{width:249px;overflow:hidden;float:left;display:inline;}
+.zjcontent .rightInt{width:729px;overflow:hidden;float:left;display:inline;margin-left:-18px;}
+.zjtit{width:249px;height:114px;background-position:-239px -369px;}
+.zjtit span{display:none; }
+
+/**走进中石导航**/
+.zj_nav{width:249px;background:url(../images/1_314.jpg) repeat-x;margin-bottom:42px;}
+.zj_nav h2{background-position:0 -193px;height:25px;padding:7px 0 0 21px;font-size:14px;color:#474746;font-weight:normal;cursor:pointer;}
+.zj_nav h2 img{vertical-align:middle;padding-right:15px;}
+.zj_nav ul{display:none;}
+.zj_nav li{background-position:0 -193px;height:32px;line-height:32px;display:block;overflow:hidden;text-indent:51px;}
+.zj_nav li a{color:#474746;text-decoration:none;font-size:12px;}
+
+/**走进中石广告图片**/
+.zj_img{overflow:hidden;width:729px;height:199px;background:url(../ad/zjzs.jpg) no-repeat right top;}
+
+/**走进中石**/
+.zjzs_warp{background:url(../images/1_26.jpg) repeat-x;}
+.zjzs_warp .zjzs{background-position:-942px -363px;padding:20px 20px 0 20px;}
+.zjzs_warp .zjzs_content{padding:15px 10px 0 10px;font-size:14px;line-height:23px;color:#777675;}
+.zjzs_warp .zjzs_content p{font-size:14px;line-height:23px;color:#777675;margin-bottom:30px;}
+.zjzs_warp .zjzs_content .shipin{float:right;margin:0 0 10px 10px;}
+
+/**走进中石--分公司**/
+.com6{overflow:hidden;clear:both;}
+.com6 .com{float:left;width:220px;overflow:hidden;margin:0 14px 14px 0;}
+.com6 .none{margin-right:0;}
+.com6 .com .x1{background-position:0 -542px;width:220px;height:4px;display:block;overflow:hidden;}
+.com6 .com .x2{background-position:0 -546px;width:220px;height:4px;display:block;overflow:hidden;}
+.com6 .com .go{background-position:-745px -115px;width:43px;height:13px;display:block;overflow:hidden;position:absolute;bottom:16px;left:20px;}
+.com6 .com div{background:#efecdf;height:305px;padding:12px;overflow:hidden;line-height:20px;color:#353535;text-align:justify;text-justify:inter-ideograph;text-indent:0;position:relative;}
+.com6 .com div h3{background-position:0 -493px;width:194px;height:42px;margin-bottom:10px;line-height:42px;font-size:12px;font-weight:bold;text-indent:0em;text-align:center;color:#777675;display:block;}
+.com6 .com div h3.l{line-height:18px;padding-top:5px;height:37px;}
+.com6 .com div.a1{background-position:150px 257px;background-color:#efecdf;}
+.com6 .com div.a2{background-position:-63px 267px;background-color:#efecdf;}
+.com6 .com div.a3{background-position:-267px 267px;background-color:#efecdf;}
+
+/**走进中石--列表**/
+.zjzs .list {margin-bottom:15px;}
+.zjzs .list li{background-position:-957px -273px;padding-left:15px;cursor:pointer;color:#666;font-weight:bold;line-height:25px;}
+
+
+
+/**分页**/
+.page{background:#eee;margin-bottom:15px;padding:0 15px;}
+.page a{color:#000;font-family:arial;}
+.page a:hover{color:#cc3300;}
+.page a.hover{font-weight:bold;color:#ff0000;text-decoration:none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
